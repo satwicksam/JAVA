@@ -1,5 +1,6 @@
-import java.util.*;
+// Program to calculate GCD of two numbers:
 
+import java.util.*;
 class GCD{
 	public static void main(String args[]){
 		Scanner sc= new Scanner(System.in);
