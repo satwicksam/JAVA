@@ -1,5 +1,6 @@
-import java.util.*;
+//Program to addition of two number:~ 
 
+import java.util.*;
 class First{
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
