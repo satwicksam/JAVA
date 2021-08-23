@@ -1,7 +1,7 @@
 //Write a program to find greater number between 3 given numbers.
 
 import java.util.*;
-class GreatNumber{
+class GreatNumberAmong3{
 	public static void main(String args[]){
 		Scanner sc= new Scanner(System.in);
 		System.out.println("Enter 3 numbers: ");
